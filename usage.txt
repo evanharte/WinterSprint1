@@ -1,0 +1,6 @@
+myapp <command> <option>
+
+Usage:
+
+  myapp init          initialize application
+  myapp init --mk     create all app folders
